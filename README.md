@@ -2,8 +2,9 @@
 
 ## Getting Started
 
-To start your Odoo instance, go in the directory of the docker-compose.yml file you created from the previous examples and type:
+To start your Odoo instance, go to the directory of the docker-compose.yml file you created from the previous examples and type:
 
 `$ docker-compose up -d`
 
-Then open Odoo on localhost or at the following link http://localhost:8069
+Wait until the Docker installation is complete
+And with that out of the way, open Odoo on localhost or at the following link http://localhost:8069
